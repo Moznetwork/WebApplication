@@ -1,0 +1,65 @@
+html{
+height: 100%;
+}
+body  {
+background-color: rgb(34, 148, 34);
+background-image: url(Images/highway2.jpeg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+.join {
+
+    text-align:right;
+}
+
+.container {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header {
+
+    background-color:rgba(0, 0, 255, 0.452) ;
+    height: 80px;
+}
+
+nav {
+    background-color:#f11515 ;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main {
+   /* background-color:orange
+   <a href="http://www.google.ca" target="_blank">Location</a> 
+    ;*/
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 18px;
+    color:white;
+   
+
+}
+footer {
+    background-color:rgba(249, 12, 12, 0.947) ;
+}
+a {
+color: rgb(5, 5, 5);
+text-decoration: none;
+}
+
+nav a { 
+
+    padding-left: 90px;
+    padding-right: 80px;
+}
+
+Enroll {
+
+    background-position: center;
+}
